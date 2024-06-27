@@ -617,8 +617,7 @@
   .blog-article #blog-content ul li,
   .blog-article #blog-content ol li {
     margin-bottom: 1rem;
-    list-style: circle;
-    font-size: 1rem;
+    font-size: 2rem;
     line-height: 1.6em;
     color: var(--bodyTextColor);
   }
