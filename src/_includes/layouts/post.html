@@ -6,12 +6,9 @@
 
 {% block body %}
   
-<h1 class="container blog-h1">{{ title }}</h1>
 
 
-<picture class="blog-mainImage">
-    <img style="max-width: 100%;" src="{{ image }}" alt="{{ imageAlt }}" decoding="async"/>
-</picture>
+
 
 
     <!-- ============================================ -->
@@ -26,6 +23,8 @@
        
         <!--Main content -->
         <div class="main-content">
+            <h1 class="container blog-h1">{{ title }}</h1>
+
         
 
             <!-- ============================================ -->
@@ -48,25 +47,7 @@
                 </section>
 
 
-                                <!--Article Info-->
-                                <div class="article-group">
-                    
-                                    <div class="blog-authorGroup">
-                                        <!--Author Image-->
-                                        <picture class="blog-author-img">
-                                            <img
-                                            src="/assets/svgs/profile.svg"
-                                            alt="house"
-                                            width="32"
-                                            height="32"
-                                            decoding="async">
-                                        </picture>
-                                        <span class="blog-author">{{ author }}</span>
-                                        <span aria-hidden="true" class="blog-dot"></span>
-                                        <!--Blog Date-->
-                                        <span class="blog-date">{{ date | postDate }}</span>
-                                    </div>
-                                </div>
+                            
             </article>
         </div>
         <!-- End .main-content -->
