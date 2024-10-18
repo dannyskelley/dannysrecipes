@@ -6,7 +6,7 @@ author: danny
 date: 2024-10-18T13:34:00.000Z
 tags:
   - post
-image: /assets/images/blog/difara.jpg
+image: /assets/images/blog/463832065_1078614987205346_5184866276005052294_n.jpg
 imageAlt: "Copycat Taco Bell Mexican Pizza: A 5-Point Recipe"
 ---
 ## Copycat Taco Bell Mexican Pizza: A 5-Point Recipe
