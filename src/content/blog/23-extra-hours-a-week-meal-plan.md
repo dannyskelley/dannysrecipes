@@ -9,26 +9,49 @@ tags:
 ---
 ## **Monday**
 
-* **Breakfast**: Egg White & Cheese Muffin (Starbucks)  
+1. **Spinach & Feta Wrap**
 
-  * **Calories**: ~290  
-  * **Protein**: ~18g  
-  * [Order from Starbucks](https://www.doordash.com/store/starbucks-coffee-13704/?event_type=autocomplete&pickup=false)
+   * **Calories**: ~290
+   * **Protein**: ~18g
+2. **Bacon, Egg & Gouda Sandwich**
+
+   * **Calories**: ~360
+   * **Protein**: ~17g
+3. **Turkey & Havarti Sandwich**
+
+   * **Calories**: ~350
+   * **Protein**: ~19g
+4. **Egg & Cheese Protein Box**
+
+   * **Calories**: ~290
+   * **Protein**: ~21g  * [Order from Starbucks](https://www.doordash.com/store/starbucks-detroit-24637941/?event_type=autocomplete&pickup=false)
+
+
+
 * **Snack**: String Cheese  
 
   * **Calories**: ~80  
   * **Protein**: ~6g  
-  * [Order from Aldi](https://www.aldi.us/en/products/string-cheese/)
+  * [Order from Aldi](https://www.doordash.com/convenience/store/24679225/?pickup=false)
+
+
+
 * **Lunch**: Grilled Chicken Salad (Chick-fil-A)  
 
   * **Calories**: ~340  
   * **Protein**: ~30g  
   * [Order from Chick-fil-A](https://www.doordash.com/store/chick-fil-a-10975/?event_type=autocomplete&pickup=false)
+
+
+
 * **Snack**: Greek Yogurt (nonfat)  
 
   * **Calories**: ~100  
   * **Protein**: ~10g  
   * [Order from Aldi](https://www.aldi.us/en/products/nonfat-greek-yogurt/)
+
+
+
 * **Dinner**: Grilled Chicken Sandwich (Wendy's - no mayo)  
 
   * **Calories**: ~400  
