@@ -22,9 +22,9 @@ tags:
   - **Protein:** ~6g  
 
 **Lunch:**  
-- **Grilled Chicken Sandwich**  
-  - **Calories:** ~370  
-  - **Protein:** ~33g  
+- **Grilled Chicken Wrap**  
+  - **Calories:** ~350  
+  - **Protein:** ~28g  
   - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
@@ -39,8 +39,8 @@ tags:
   - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-detroit-852666/?event_type=autocomplete&pickup=false)*  
 
 **Daily Total:**  
-- **Calories:** 1,560  
-- **Protein:** 104g  
+- **Calories:** 1,540  
+- **Protein:** 116g  
 
 ---
 
@@ -50,7 +50,6 @@ tags:
   - **Calories:** ~250  
   - **Protein:** ~27g  
 
-
 **Snack:**  
 - **Hard-Boiled Eggs (2)**  
   - **Calories:** ~140  
@@ -58,32 +57,9 @@ tags:
 
 **Lunch:**  
 - **Turkey & Veggie Sub (Subway on whole wheat, no cheese)**  
-Low-Calorie Toppings
-
-    Lettuce (0 calories)
-    Spinach (0 calories)
-    Tomatoes (5 calories per slice)
-    Cucumbers (5 calories per slice)
-    Green Peppers (5 calories per slice)
-    Onions (5 calories per slice)
-    Jalapeños (0-5 calories, depending on quantity)
-    Banana Peppers (0-5 calories, depending on quantity)
-    Pickles (5 calories per serving)
-    Olives (20 calories per serving)
-    Avocado (60 calories for a serving, but still a healthy fat option)
-
-Low-Calorie Sauces
-
-    Yellow Mustard (0 calories)
-    Spicy Mustard (0 calories)
-    Vinegar (0 calories)
-    Oil & Vinegar (approx. 40 calories for a small serving)
-    Sweet Onion Sauce (about 30 calories per serving)
-    Honey Mustard (about 35 calories per serving)
-    Light Mayonnaise (about 50 calories per serving)
   - **Calories:** ~280  
   - **Protein:** ~22g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Cucumber and Pickles**  
@@ -94,7 +70,7 @@ Low-Calorie Sauces
 - **Grilled Chicken Burrito Bowl (Chipotle with brown rice, black beans, and salsa)**  
   - **Calories:** ~500  
   - **Protein:** ~40g  
-  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-mexican-grill-detroit-28067348/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJjaGlwb3RsZSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJjaGlwb3RsZSIsInZlcnRpY2FsX2lkIjotOTk5LCJ2ZXJ0aWNhbF9uYW1lIjoiYWxsIn0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NSwxNzYsMTc3XX0=&pickup=false)*
+  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-mexican-grill-detroit-28067348/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJjaGlwb3RsZSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJjaGlwb3RsZSIsInZlcnRpY2FsX2lkIjotOTk5LCJ2ZXJ0aWNhbF9uYW1lIjoiYWxsIn0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NSwxNzYsMTc3XX0=&pickup=false)*  
 
 **Daily Total:**  
 - **Calories:** 1,470  
@@ -107,7 +83,7 @@ Low-Calorie Sauces
 - **Egg McMuffin**  
   - **Calories:** ~300  
   - **Protein:** ~17g  
-  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*
+  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Cottage Cheese (1 cup, low-fat)**  
@@ -118,7 +94,7 @@ Low-Calorie Sauces
 - **Bacon Double Stack (no cheese)**  
   - **Calories:** ~410  
   - **Protein:** ~23g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Baby Carrots**  
@@ -145,19 +121,18 @@ Low-Calorie Sauces
 - **Greek Yogurt Parfait (Dunkin')**  
   - **Calories:** ~220  
   - **Protein:** ~14g  
-  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false)*
+  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Protein Shake**  
   - **Calories:** ~120  
   - **Protein:** ~24g  
 
-
 **Lunch:**  
-- **Chicken Cobb Salad **  
+- **Chicken Cobb Salad**  
   - **Calories:** ~470  
   - **Protein:** ~30g  
-  - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-highland-park-852666/?event_type=autocomplete&pickup=false)*
+  - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-highland-park-852666/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Pickles**  
@@ -181,7 +156,7 @@ Low-Calorie Sauces
 - **Bacon, Egg & Cheese on Whole Wheat (Starbucks)**  
   - **Calories:** ~350  
   - **Protein:** ~18g  
-  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-dearborn-24638343/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdGFyYnVja3MiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoic3RhcmJ1Y2siLCJ2ZXJ0aWNhbF9pZCI6LTk5OSwidmVydGljYWxfbmFtZSI6ImFsbCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzYsMTc3LDE5Nl19&pickup=false)*
+  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-dearborn-24638343/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdGFyYnVja3MiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoic3RhcmJ1Y2siLCJ2ZXJ0aWNhbF9pZCI6LTk5OSwidmVydGljYWxfbmFtZSI6ImFsbCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzYsMTc3LDE5Nl19&pickup=false)*  
 
 **Snack:**  
 - **String Cheese**  
@@ -192,7 +167,7 @@ Low-Calorie Sauces
 - **Turkey Breast Sub**  
   - **Calories:** ~200 (6-inch)  
   - **Protein:** ~18g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Apple**  
@@ -200,7 +175,7 @@ Low-Calorie Sauces
   - **Protein:** ~0.5g  
 
 **Dinner:**  
-- **Wendys Salad**  
+- **Wendy's Side Salad**  
   - **Calories:** ~250  
   - **Protein:** ~30g  
   - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
@@ -219,7 +194,7 @@ Low-Calorie Sauces
 - **Egg & Cheese Wake-Up Wrap**  
   - **Calories:** ~160  
   - **Protein:** ~8g  
-  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false)*
+  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Hard-Boiled Eggs (2)**  
@@ -230,7 +205,7 @@ Low-Calorie Sauces
 - **Tuna Salad on Whole Wheat (Subway with veggies)**  
   - **Calories:** ~400  
   - **Protein:** ~30g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Greek Yogurt (nonfat)**  
@@ -238,9 +213,9 @@ Low-Calorie Sauces
   - **Protein:** ~10g  
 
 **Dinner:**  
-- **Chicken Breast Sandwich (Wendy's - grilled, no sauce)**  
+- **Wendy's Grilled Chicken Wrap**  
   - **Calories:** ~400  
-  - **Protein:** ~36g  
+  - **Protein:** ~30g  
   - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
 - **Side:** Small Chili  
   - **Calories:** ~240  
@@ -257,7 +232,7 @@ Low-Calorie Sauces
 - **Egg White Delight McMuffin**  
   - **Calories:** ~250  
   - **Protein:** ~17g  
-  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*
+  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Cottage Cheese (1 cup, low-fat)**  
@@ -265,10 +240,10 @@ Low-Calorie Sauces
   - **Protein:** ~28g  
 
 **Lunch:**  
-- **Grilled Chicken Breast Meal (Wendy's - no mayo)**  
-  - **Calories:** ~420  
-  - **Protein:** ~27g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
+- **Chicken Caesar Salad (Wendy's)**  
+  - **Calories:** ~400  
+  - **Protein:** ~30g  
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
 
 **Snack:**  
 - **Baby Carrots**  
@@ -291,5 +266,6 @@ Low-Calorie Sauces
 ---
 
 ### **Weekly Totals**
-- **Total Calories:** 10,165  
-- **Total Protein:** 826g  
+- **Total Calories:** 10,180  
+- **Total Protein:** 831g  
+
