@@ -238,7 +238,7 @@ tags:
 - **Egg White Delight McMuffin**  
   - **Calories:** ~250  
   - **Protein:** ~17g  
-  - *Order from [McDonald's](https://www.doordash.com/store/mcdonalds-highland-park-21675/?event_type=autocomplete&pickup=false)*
+  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Cottage Cheese (1 cup, low-fat)**  
