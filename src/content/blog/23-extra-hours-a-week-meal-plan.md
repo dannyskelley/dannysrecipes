@@ -32,7 +32,6 @@ tags:
 - **Cottage Cheese (1 cup, low-fat)**  
   - **Calories:** ~200  
   - **Protein:** ~28g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Dinner:**  
 - **Caesar Chicken Salad**  
@@ -95,7 +94,6 @@ tags:
 - **Cottage Cheese (1 cup, low-fat)**  
   - **Calories:** ~200  
   - **Protein:** ~28g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Lunch:**  
 - **Bacon Double Stack (no cheese)**  
@@ -164,19 +162,18 @@ tags:
 - **Bacon, Egg & Cheese on Whole Wheat (Starbucks)**  
   - **Calories:** ~350  
   - **Protein:** ~18g  
-  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-highland-park-37321/?event_type=autocomplete&pickup=false)*
+  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-dearborn-24638343/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdGFyYnVja3MiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoic3RhcmJ1Y2siLCJ2ZXJ0aWNhbF9pZCI6LTk5OSwidmVydGljYWxfbmFtZSI6ImFsbCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzYsMTc3LDE5Nl19&pickup=false)*
 
 **Snack:**  
 - **String Cheese**  
   - **Calories:** ~80  
   - **Protein:** ~6g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Lunch:**  
 - **Turkey Breast Sub**  
   - **Calories:** ~200 (6-inch)  
   - **Protein:** ~18g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-highland-park-211899/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Apple**  
@@ -209,19 +206,17 @@ tags:
 - **Hard-Boiled Eggs (2)**  
   - **Calories:** ~140  
   - **Protein:** ~12g  
-  - *Order from [Meijer](https://www.meijer.com/)*
 
 **Lunch:**  
 - **Tuna Salad on Whole Wheat (Subway with veggies)**  
   - **Calories:** ~400  
   - **Protein:** ~30g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-highland-park-211899/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Greek Yogurt (nonfat)**  
   - **Calories:** ~100  
   - **Protein:** ~10g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Dinner:**  
 - **Chicken Breast Sandwich (Wendy's - grilled, no sauce)**  
@@ -265,7 +260,7 @@ tags:
 - **Steak Soft Taco (Taco Bell - fresco style)**  
   - **Calories:** ~500  
   - **Protein:** ~30g  
-  - *Order from [Taco Bell](https://www.doordash.com/store/taco-bell-highland-park-48534/?event_type=autocomplete&pickup=false)*  
+  - *Order from [Taco Bell](https://www.doordash.com/store/taco-bell-detroit-1193933/?event_type=autocomplete&pickup=false)*  
 - **Side:** Pintos & Cheese  
   - **Calories:** ~200  
   - **Protein:** ~10g  
