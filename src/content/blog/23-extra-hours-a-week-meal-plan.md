@@ -14,7 +14,7 @@ tags:
 - **Spinach & Feta Wrap**  
   - **Calories:** ~290  
   - **Protein:** ~18g  
-  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-highland-park-37321/?event_type=autocomplete&pickup=false)*
+  - *Order from [Starbucks](https://www.doordash.com/store/starbucks-detroit-24637941/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **String Cheese**  
@@ -26,7 +26,7 @@ tags:
 - **Grilled Chicken Sandwich**  
   - **Calories:** ~370  
   - **Protein:** ~33g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendys-highland-park-57963/?event_type=autocomplete&pickup=false)*
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Cottage Cheese (1 cup, low-fat)**  
@@ -35,17 +35,17 @@ tags:
   - *Order from [Aldi](https://www.aldi.us/)*
 
 **Dinner:**  
-- **Power Mediterranean Chicken Salad**  
-  - **Calories:** ~420  
-  - **Protein:** ~40g  
-  - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-highland-park-852666/?event_type=autocomplete&pickup=false)*  
+- **Caesar Chicken Salad**  
+  - **Calories:** ~540  
+  - **Protein:** ~36g  
+  - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-detroit-852666/?event_type=autocomplete&pickup=false)*  
 - **Side:** Side Salad with Light Dressing  
   - **Calories:** ~100  
   - **Protein:** ~3g  
 
 **Daily Total:**  
-- **Calories:** 1,460  
-- **Protein:** 108g  
+- **Calories:** 1,560  
+- **Protein:** 104g  
 
 ---
 
@@ -54,19 +54,18 @@ tags:
 - **Protein Smoothie (Lean1 with extra protein)**  
   - **Calories:** ~250  
   - **Protein:** ~27g  
-  - *Order from [Smoothie King](https://www.doordash.com/store/smoothie-king-highland-park-37321/?event_type=autocomplete&pickup=false)*
+
 
 **Snack:**  
 - **Hard-Boiled Eggs (2)**  
   - **Calories:** ~140  
   - **Protein:** ~12g  
-  - *Order from [Meijer](https://www.meijer.com/)*
 
 **Lunch:**  
 - **Turkey & Veggie Sub (Subway on whole wheat, no cheese)**  
   - **Calories:** ~280  
   - **Protein:** ~22g  
-  - *Order from [Subway](https://www.doordash.com/store/subway-highland-park-211899/?event_type=autocomplete&pickup=false)*
+  - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Cucumber and Pickles**  
@@ -77,7 +76,7 @@ tags:
 - **Grilled Chicken Burrito Bowl (Chipotle with brown rice, black beans, and salsa)**  
   - **Calories:** ~500  
   - **Protein:** ~40g  
-  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-highland-park-120887/?event_type=autocomplete&pickup=false)*
+  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-mexican-grill-detroit-28067348/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJjaGlwb3RsZSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJjaGlwb3RsZSIsInZlcnRpY2FsX2lkIjotOTk5LCJ2ZXJ0aWNhbF9uYW1lIjoiYWxsIn0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NSwxNzYsMTc3XX0=&pickup=false)*
 
 **Daily Total:**  
 - **Calories:** 1,470  
@@ -90,7 +89,7 @@ tags:
 - **Egg McMuffin**  
   - **Calories:** ~300  
   - **Protein:** ~17g  
-  - *Order from [McDonald's](https://www.doordash.com/store/mcdonalds-highland-park-21675/?event_type=autocomplete&pickup=false)*
+  - *Order from [McDonald's](https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Cottage Cheese (1 cup, low-fat)**  
@@ -102,7 +101,7 @@ tags:
 - **Bacon Double Stack (no cheese)**  
   - **Calories:** ~410  
   - **Protein:** ~23g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendys-highland-park-57963/?event_type=autocomplete&pickup=false)*
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Baby Carrots**  
@@ -113,7 +112,7 @@ tags:
 - **Fresco Style Soft Taco (Chicken)**  
   - **Calories:** ~150  
   - **Protein:** ~12g  
-  - *Order from [Taco Bell](https://www.doordash.com/store/taco-bell-highland-park-48534/?event_type=autocomplete&pickup=false)*  
+  - *Order from [Taco Bell](https://www.doordash.com/store/taco-bell-detroit-1193933/?event_type=autocomplete&pickup=false)*  
 - **Side:** Black Beans  
   - **Calories:** ~120  
   - **Protein:** ~8g  
@@ -129,17 +128,17 @@ tags:
 - **Greek Yogurt Parfait (Dunkin')**  
   - **Calories:** ~220  
   - **Protein:** ~14g  
-  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin-highland-park-7029/?event_type=autocomplete&pickup=false)*
+  - *Order from [Dunkin'](https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
-- **Protein Shake (with water)**  
+- **Protein Shake**  
   - **Calories:** ~120  
   - **Protein:** ~24g  
-  - *Order from [Meijer](https://www.meijer.com/)*
+
 
 **Lunch:**  
-- **Chicken Caesar Salad (Panera Bread - no croutons, light dressing)**  
-  - **Calories:** ~400  
+- **Chicken Cobb Salad **  
+  - **Calories:** ~470  
   - **Protein:** ~30g  
   - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-highland-park-852666/?event_type=autocomplete&pickup=false)*
 
@@ -152,10 +151,10 @@ tags:
 - **Steak Soft Taco (Chipotle)**  
   - **Calories:** ~500  
   - **Protein:** ~36g  
-  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-highland-park-120887/?event_type=autocomplete&pickup=false)*  
+  - *Order from [Chipotle](https://www.doordash.com/store/chipotle-mexican-grill-detroit-28067348/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJjaGlwb3RsZSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJjaGlwb3RsZSIsInZlcnRpY2FsX2lkIjotOTk5LCJ2ZXJ0aWNhbF9uYW1lIjoiYWxsIn0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NSwxNzYsMTc3XX0=&pickup=false)*  
 
 **Daily Total:**  
-- **Calories:** 1,380  
+- **Calories:** 1,450  
 - **Protein:** 105g  
 
 ---
@@ -250,7 +249,6 @@ tags:
 - **Cottage Cheese (1 cup, low-fat)**  
   - **Calories:** ~200  
   - **Protein:** ~28g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Lunch:**  
 - **Grilled Chicken Breast Meal (Wendy's - no mayo)**  
