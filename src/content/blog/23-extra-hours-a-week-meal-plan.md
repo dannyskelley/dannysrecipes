@@ -184,7 +184,7 @@ tags:
 - **Grilled Chicken Nuggets (Wendy's)**  
   - **Calories:** ~250  
   - **Protein:** ~30g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendys-highland-park-57963/?event_type=autocomplete&pickup=false)*  
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
 - **Side:** Small Chili  
   - **Calories:** ~240  
   - **Protein:** ~18g  
@@ -222,7 +222,7 @@ tags:
 - **Chicken Breast Sandwich (Wendy's - grilled, no sauce)**  
   - **Calories:** ~400  
   - **Protein:** ~36g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendys-highland-park-57963/?event_type=autocomplete&pickup=false)*  
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
 - **Side:** Small Chili  
   - **Calories:** ~240  
   - **Protein:** ~18g  
@@ -249,7 +249,7 @@ tags:
 - **Grilled Chicken Breast Meal (Wendy's - no mayo)**  
   - **Calories:** ~400  
   - **Protein:** ~36g  
-  - *Order from [Wendy's](https://www.doordash.com/store/wendys-highland-park-57963/?event_type=autocomplete&pickup=false)*
+  - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
 - **Baby Carrots**  
