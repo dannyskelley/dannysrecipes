@@ -37,9 +37,6 @@ tags:
   - **Calories:** ~540  
   - **Protein:** ~36g  
   - *Order from [Panera Bread](https://www.doordash.com/store/panera-bread-detroit-852666/?event_type=autocomplete&pickup=false)*  
-- **Side:** Side Salad with Light Dressing  
-  - **Calories:** ~100  
-  - **Protein:** ~3g  
 
 **Daily Total:**  
 - **Calories:** 1,560  
@@ -61,6 +58,29 @@ tags:
 
 **Lunch:**  
 - **Turkey & Veggie Sub (Subway on whole wheat, no cheese)**  
+Low-Calorie Toppings
+
+    Lettuce (0 calories)
+    Spinach (0 calories)
+    Tomatoes (5 calories per slice)
+    Cucumbers (5 calories per slice)
+    Green Peppers (5 calories per slice)
+    Onions (5 calories per slice)
+    Jalapeños (0-5 calories, depending on quantity)
+    Banana Peppers (0-5 calories, depending on quantity)
+    Pickles (5 calories per serving)
+    Olives (20 calories per serving)
+    Avocado (60 calories for a serving, but still a healthy fat option)
+
+Low-Calorie Sauces
+
+    Yellow Mustard (0 calories)
+    Spicy Mustard (0 calories)
+    Vinegar (0 calories)
+    Oil & Vinegar (approx. 40 calories for a small serving)
+    Sweet Onion Sauce (about 30 calories per serving)
+    Honey Mustard (about 35 calories per serving)
+    Light Mayonnaise (about 50 calories per serving)
   - **Calories:** ~280  
   - **Protein:** ~22g  
   - *Order from [Subway](https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false)*
@@ -180,7 +200,7 @@ tags:
   - **Protein:** ~0.5g  
 
 **Dinner:**  
-- **Grilled Chicken Nuggets (Wendy's)**  
+- **Wendys Salad**  
   - **Calories:** ~250  
   - **Protein:** ~30g  
   - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*  
@@ -246,8 +266,8 @@ tags:
 
 **Lunch:**  
 - **Grilled Chicken Breast Meal (Wendy's - no mayo)**  
-  - **Calories:** ~400  
-  - **Protein:** ~36g  
+  - **Calories:** ~420  
+  - **Protein:** ~27g  
   - *Order from [Wendy's](https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false)*
 
 **Snack:**  
