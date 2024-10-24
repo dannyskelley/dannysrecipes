@@ -20,7 +20,6 @@ tags:
 - **String Cheese**  
   - **Calories:** ~80  
   - **Protein:** ~6g  
-  - *Order from [Aldi](https://www.aldi.us/)*
 
 **Lunch:**  
 - **Grilled Chicken Sandwich**  
