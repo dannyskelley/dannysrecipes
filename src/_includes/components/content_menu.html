@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Meal Plan</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: "Poppins", Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        p { color: white; }
+        
+        h1, h2 {
+            color: white;
+            text-align: center;
+        }
+        
+        .meal-plan {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        
+        .day {
+            margin: 10px;
+            border: 1px solid white;
+            padding: 10px;
+            border-radius: 5px;
+            flex: 1 1 200px;
+            max-width: 300px;
+            box-sizing: border-box;
+        }
+
+        .meal {
+            margin: 5px 0;
+        }
+
+        .divider {
+            border-top: 1px solid white;
+            margin: 5px 0;
+        }
+        
+        .restaurant-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        
+        .button {
+            display: inline-block;
+            padding: 15px 25px;
+            margin: 10px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            flex: 1 1 150px;
+            max-width: 200px;
+            box-sizing: border-box;
+        }
+        
+        .button:hover {
+            background-color: #218838;
+        }
+
+        @media (max-width: 600px) {
+            .button {
+                width: 100%;
+                box-sizing: border-box;
+            }
+        }
+        
+        .total {
+            text-align: center;
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Weekly Meal Plan</h1>
+
+<div class="meal-plan" id="mealPlan">
+    <div class="day">
+        <h2>Day 1</h2>
+        <div class="meal">Breakfast: 2 Egg McMuffins - 520 cal | 30g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Ham & Swiss on Baguette (Starbucks) - 500 cal | 25g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: Panda Express Bigger Plate (Grilled Teriyaki Chicken, Super Greens, Firecracker Shrimp) - 710 cal | 43g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Cottage Cheese (1/2 cup) - 103 cal | 14g Protein, Baby Carrots - 35 cal | 1g Protein, Apple - 95 cal | 0g Protein</div>
+        <p><strong>Total: 1963 cal | 113g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 2</h2>
+        <div class="meal">Breakfast: 1 Chicken & Roasted Pepper Dunkin' Wrap - 380 cal | 25g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Wendy's Grilled Chicken Ranch Wrap - 420 cal | 27g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: Taco Bell: 3 Tacos Fresco (Chicken) - 450 cal | 27g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Pickles (1 cup) - 17 cal | 1g Protein, Tangerine - 47 cal | 1g Protein</div>
+        <p><strong>Total: 1314 cal | 82g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 3</h2>
+        <div class="meal">Breakfast: Bacon, Gouda & Egg Sandwich (Starbucks) - 360 cal | 19g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Chipotle Salad - 555 cal | 38g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: 2 Jr. Bacon Cheeseburgers (Wendy's) - 500 cal | 28g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Cottage Cheese (1/2 cup) - 103 cal | 14g Protein, Sliced Peppers - 25 cal | 1g Protein, Apple - 95 cal | 0g Protein</div>
+        <p><strong>Total: 1638 cal | 100g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 4</h2>
+        <div class="meal">Breakfast: 1 Maple Sugar Bacon Wake Up Wrap (Dunkin') - 250 cal | 11g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Footlong (Subway) - 660 cal | 33g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: 2 Double Burgers (McDonald's) - 680 cal | 40g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Baby Carrots - 35 cal | 1g Protein, Cottage Cheese (1/2 cup) - 103 cal | 14g Protein</div>
+        <p><strong>Total: 1728 cal | 99g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 5</h2>
+        <div class="meal">Breakfast: 2 Egg McMuffins - 520 cal | 30g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: 1 Ham & Swiss on Baguette (Starbucks) - 500 cal | 25g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: Wendy's Spicy Chicken Sandwich - 320 cal | 23g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Pickles (1 cup) - 17 cal | 1g Protein, Celery Sticks - 10 cal | 0g Protein, Tangerine - 47 cal | 1g Protein</div>
+        <p><strong>Total: 1414 cal | 80g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 6</h2>
+        <div class="meal">Breakfast: 1 Bacon, Gouda & Egg Sandwich (Starbucks) - 360 cal | 19g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Panda Express Bigger Plate (Kung Pao Chicken, Broccoli Beef, Super Greens) - 710 cal | 40g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: Chipotle Salad - 555 cal | 38g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Cottage Cheese (1/2 cup) - 103 cal | 14g Protein, Sliced Cucumbers - 16 cal | 1g Protein, Apple - 95 cal | 0g Protein</div>
+        <p><strong>Total: 1849 cal | 113g Protein</strong></p>
+    </div>
+
+    <div class="day">
+        <h2>Day 7</h2>
+        <div class="meal">Breakfast: Bacon, Gouda & Egg Sandwich (Starbucks) - 360 cal | 19g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Lunch: Wendy's Spicy Chicken Sandwich - 320 cal | 23g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Dinner: 2 Double Burgers (McDonald's) - 680 cal | 40g Protein</div>
+        <div class="divider"></div>
+        <div class="meal">Snacks: Baby Carrots - 35 cal | 1g Protein, Cottage Cheese (1/2 cup) - 103 cal | 14g Protein, Tangerine - 47 cal | 1g Protein</div>
+        <p><strong>Total: 1545 cal | 98g Protein</strong></p>
+    </div>
+</div>
+
+<h1>Weekly Totals</h1>
+<div class="total">
+    <p><strong>Total Calories: 12,192 cal</strong></p>
+    <p><strong>Total Protein: 785g</strong></p>
+</div>
+
+<h1>Restaurant Quick Links</h1>
+
+<div class="restaurant-links">
+    <div class="category">
+        <h2>Breakfast</h2>
+        <a href="https://www.doordash.com/store/starbucks-detroit-24637941/?event_type=autocomplete&pickup=false" class="button" target="_blank">Starbucks</a>
+        <a href="https://www.doordash.com/store/dunkin'-highland-park-2444691/?event_type=autocomplete&pickup=false" class="button" target="_blank">Dunkin'</a>
+    </div>
+
+    <div class="category">
+        <h2>Lunch</h2>
+        <a href="https://www.doordash.com/store/mcdonald's-detroit-930021/?event_type=autocomplete&pickup=false" class="button" target="_blank">McDonald's</a>
+        <a href="https://www.doordash.com/store/subway-detroit-232176/?event_type=autocomplete&pickup=false" class="button" target="_blank">Subway</a>
+        <a href="https://www.doordash.com/store/chipotle-mexican-grill-detroit-28067348/?event_type=autocomplete&pickup=false" class="button" target="_blank">Chipotle</a>
+        <a href="https://www.doordash.com/store/wendy's-highland-park-1313358/?event_type=autocomplete&pickup=false" class="button" target="_blank">Wendy's</a>
+        <a href="https://www.doordash.com/store/taco-bell-detroit-1193933/?event_type=autocomplete&pickup=false" class="button" target="_blank">Taco Bell</a>
+    </div>
+
+    <div class="category">
+        <h2>Dinner</h2>
+        <a href="https://www.doordash.com/store/panera-bread-warren-24560687/?event_type=autocomplete&pickup=false" class="button" target="_blank">Panera Bread</a>
+        <a href="https://www.doordash.com/store/panda-express-royal-oak-2279162/?event_type=autocomplete&pickup=false" class="button" target="_blank">Panda Express</a>
+    </div>
+</div>
+
+</body>
+</html>

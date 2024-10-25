@@ -1,0 +1,67 @@
+<style>
+    body {
+        background-color: #000;
+        color: #fff;
+      
+        padding: 20px;
+        margin: 0;
+    }
+    h1 {
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        background: #444;
+        color:white;
+        margin: 10px 0;
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 1.5em; /* Increased font size */
+        display: flex; /* Flex layout for alignment */
+        align-items: center; /* Center items vertically */
+        cursor: pointer; /* Pointer cursor for clickable rows */
+        transition: background-color 0.3s;
+    }
+    li:hover {
+        background: #555; /* Highlight on hover */
+    }
+    input[type="checkbox"] {
+        width: 30px; /* Larger checkbox */
+        height: 30px; /* Larger checkbox */
+        margin-right: 15px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<h1>Low-Calorie Snack Checklist</h1>
+<ul>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Celery Sticks: ~6 calories per stalk</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Cucumbers: ~16 calories per cup (sliced)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Pickles: ~17 calories for a medium pickle</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Radishes: ~18 calories per cup</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Zucchini Slices: ~20 calories per cup</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Spinach: ~7 calories per cup (raw)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Lettuce: ~5 calories per cup (shredded)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Green Peppers: ~24 calories per cup (sliced)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Broccoli Florets: ~31 calories per cup (raw)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Mushrooms: ~15 calories per cup (raw)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Coke Zero: 0 calories</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Cottage Cheese: ~206 calories per cup</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Soda Water: 0 calories (unsweetened)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Herbal Tea: 0 calories</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Black Coffee: ~2 calories per cup</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Banana: ~105 calories</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Pineapple: ~82 calories per cup (chunks)</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Apple: ~95 calories per medium apple</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Grapes: ~62 calories per cup</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Tangerines: ~47 calories each</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Skinny Pop Individual Bag: ~100 calories</li>
+    <li onclick="this.querySelector('input[type=checkbox]').click()"><input type="checkbox">Other 100-Calorie Snack Bags: ~100 calories each</li>
+</ul>
